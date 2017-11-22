@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Virtual Gallery
+
+Virtual Gallery is management of artists.
 
 You can use the [editor on GitHub](https://github.com/lucasgian/virtual-gallery/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
