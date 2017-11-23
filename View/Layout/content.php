@@ -475,9 +475,8 @@
             <ul class="flex noSpaces verticalCenter left slide-content">
               <li class="col-6-12">
                 <h1 class="ever-title ae-1">Fale com a gente<span class="comma text-ever-3">,</span></h1>
-                <p><a class="ae-3" href="https://maps.google.com/maps?cid=8111819460011366474" target="_blank">Av. Paulista, 352 cj 74 . Bela Vista<br>São Paulo . SP . Brasil</a></p>
-                <p><a class="ae-3" href="tel:55113542-0072">+55 11 3542-0072</a></p>
-                <p><a class="ae-3" href="mailto:talk@ever.com.br">talk@ever.com.br</a></p>
+                <p><a class="ae-3" href="https://maps.google.com/maps?cid=8111819460011366474" target="_blank">Campo Grande <br>Mato Grosso do Sul . MS . Brasil</a></p>
+                <p><a class="ae-3" href="mailto:talk@ever.com.br">gianextensao@gmail.com</a></p>
               </li>
               <li class="col-6-12">
                 <div class="fix-5-12 margin-top-6 contact contact-form-wrapper">

@@ -9,7 +9,7 @@
   <meta name="theme-color" content="#D21F69" />
   
   <!-- Page Title -->
-  <title>Ever. Produção Digital</title>
+  <title>Galeria UFMS</title>
   <meta name="description" content="Construímos nossos produtos com base na experiência do usuário. Com a metodologia de Design Sprint buscamos entender o desafio, criar a interface e testar a solução ao longo de cinco dias." />
 
   <meta property="og:title" content="Ever. Produção Digital" />

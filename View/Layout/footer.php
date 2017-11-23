@@ -33,7 +33,6 @@
           <a href="#home">
             <img src="https://s3-sa-east-1.amazonaws.com/ever/www/icons/Ponto_ever_branco.png" alt="." align="right" class="logo whiteLogo"/>
             <img src="https://s3-sa-east-1.amazonaws.com/ever/www/icons/Ponto_ever_color.png" alt="." align="right" class="logo blackLogo"/>
-            <img src="https://s3-sa-east-1.amazonaws.com/ever/www/icons/Logo_ever_color.png" alt="Ever." align="right" class="logo fullLogo"/>
           </a>
         </div>
       </div>
